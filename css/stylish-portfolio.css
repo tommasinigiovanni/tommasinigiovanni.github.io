@@ -223,7 +223,7 @@ hr.small {
 /* Map */
 
 .map {
-    height: 500px;
+    height: 300px;
 }
 
 @media(max-width:768px) {
@@ -235,7 +235,7 @@ hr.small {
 /* Footer */
 
 footer {
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 .txt-white {
