@@ -5,7 +5,7 @@ rdiscount:
   extensions: [smart]
 exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
 title : gT0 Bl0g
-production_url : http://tommasinigiovanni.github.io
+production_url : http://tommasinigiovanni.github.io/blog
 description: "projects and other things by Giovanni Tommasini."
 disqus_shortname: giovanni_tommasini
 #analytics: UA-32899481-1
